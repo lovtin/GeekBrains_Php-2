@@ -19,4 +19,4 @@ $config['path_templates'] = $config['path_root'] . '/../templates';
 
 $config['path_logs'] = $config['path_root'] . '/../logs';
 
-$config['sitename'] = 'Магазинчик волшебства';
+$config['sitename'] = 'Rookery';
