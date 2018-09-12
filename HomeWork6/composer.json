@@ -1,0 +1,15 @@
+{
+    "name": "hometask-7",
+    "authors": [
+        {
+            "name": "Sergey Solovev",
+            "email": "lov2oo91@mail.ru"
+        }
+    ],
+    "require": {
+        "twig/twig" : "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
